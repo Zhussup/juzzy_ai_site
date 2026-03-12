@@ -236,7 +236,6 @@ export default function App() {
         {/* Features */}
         <section id="features" style={{ padding: "80px 48px", maxWidth: "1100px", margin: "0 auto" }}>
           <div style={{ fontSize: "11px", color: "#4ade80", letterSpacing: "3px", marginBottom: "16px" }}>
-            // FEATURES
           </div>
           <h2 style={{ fontSize: "36px", fontWeight: 800, marginBottom: "48px", letterSpacing: "-1px" }}>
             Everything you need.
@@ -266,7 +265,6 @@ export default function App() {
         {/* Providers */}
         <section id="providers" style={{ padding: "80px 48px", maxWidth: "1100px", margin: "0 auto" }}>
           <div style={{ fontSize: "11px", color: "#4ade80", letterSpacing: "3px", marginBottom: "16px" }}>
-            // PROVIDERS
           </div>
           <h2 style={{ fontSize: "36px", fontWeight: 800, marginBottom: "48px", letterSpacing: "-1px" }}>
             All free. Your choice.
@@ -296,7 +294,6 @@ export default function App() {
         {/* Install */}
         <section id="install" style={{ padding: "80px 48px", maxWidth: "1100px", margin: "0 auto" }}>
           <div style={{ fontSize: "11px", color: "#4ade80", letterSpacing: "3px", marginBottom: "16px" }}>
-            // QUICK START
           </div>
           <h2 style={{ fontSize: "36px", fontWeight: 800, marginBottom: "48px", letterSpacing: "-1px" }}>
             Up in 30 seconds.
@@ -347,7 +344,6 @@ export default function App() {
           borderTop: "1px solid #111",
         }}>
           <div style={{ fontSize: "11px", color: "#4ade80", letterSpacing: "3px", marginBottom: "24px" }}>
-            // GET STARTED
           </div>
           <h2 style={{ fontSize: "clamp(28px, 4vw, 52px)", fontWeight: 800, marginBottom: "16px", letterSpacing: "-1px" }}>
             Start coding smarter.

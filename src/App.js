@@ -50,7 +50,7 @@ function TypingTerminal() {
 
   const getColor = (line) => {
     if (line.startsWith("$")) return "#4ade80";
-    if (line.startsWith("👋") || line.startsWith("🤖")) return "#86efac";
+    if (line.startsWith("👋") || line.startsWith("")) return "#86efac";
     if (line.startsWith("zhus@")) return "#a78bfa";
     if (line.startsWith("[")) return "#6b7280";
     if (line.startsWith("```") || line.startsWith("from") || line.startsWith("app") || line.startsWith("@") || line.startsWith("def") || line.startsWith("    ")) return "#93c5fd";
